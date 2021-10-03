@@ -2,6 +2,20 @@
 
 This repository tracks a list of papers on machine learning applications in general relativity and more general PDE solvers.
 
+
+## Review Articles
+- [1911.11779](https://arxiv.org/abs/1911.11779) -- Enabling real-time multi-messenger astrophysics discoveries with deep learning
+- [2105.06479](https://arxiv.org/abs/2105.06479) -- Advances in Machine and Deep Learning for Modeling and Real-time Detection of Multi-Messenger Sources
+
+## General PDE Integration
+
+- [1912.11073](https://arxiv.org/abs/1912.11073) -- Artificial neural network subgrid models of 2-D compressible magnetohydrodynamic turbulence
+- [1706.04702](https://arxiv.org/abs/1706.04702) -- Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations
+- [1711.06464](https://arxiv.org/abs/1711.06464) -- A unified deep artificial neural network approach to partial differential equations in complex geometries
+- [2001.06145](https://arxiv.org/abs/2001.06145) -- A Derivative-Free Method for Solving Elliptic Partial Differential Equations with Deep Neural Networks
+- [2003.00596](https://arxiv.org/abs/2003.00596) -- Overcoming the curse of dimensionality in the numerical approximation of high-dimensional semilinear elliptic partial differential equations
+
+
 ## GW Parameter estimation
 
 - [1711.03121](https://arxiv.org/abs/1711.03121) -- Deep Learning for Real-time Gravitational Wave Detection and Parameter Estimation: Results with Advanced LIGO Data\
@@ -61,9 +75,6 @@ This repository tracks a list of papers on machine learning applications in gene
   Wei Wei, E. A. Huerta, Mengshen Yun, Nicholas Loutrel, Roland Haas, Volodymyr Kindratenko\
   ResNet
 
-## Review
-- 1911.11779
-- 2105.06479
 
 ## General parameter estimation
  - 1312.6114
@@ -71,11 +82,3 @@ This repository tracks a list of papers on machine learning applications in gene
  - 1505.05770
  - 1606.04934
  - 1705.07057
-
-## General PDE Integration
-
-- [1912.11073](https://arxiv.org/abs/1912.11073) -- Artificial neural network subgrid models of 2-D compressible magnetohydrodynamic turbulence
-- [1706.04702](https://arxiv.org/abs/1706.04702) -- Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations
-- [1711.06464](https://arxiv.org/abs/1711.06464) -- A unified deep artificial neural network approach to partial differential equations in complex geometries
-- [2001.06145](https://arxiv.org/abs/2001.06145) -- A Derivative-Free Method for Solving Elliptic Partial Differential Equations with Deep Neural Networks
-- [2003.00596](https://arxiv.org/abs/2003.00596) -- Overcoming the curse of dimensionality in the numerical approximation of high-dimensional semilinear elliptic partial differential equations
