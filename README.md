@@ -1,6 +1,6 @@
-# ML in GR 
+# Machine Learning in General Relativity
 
-This repository tracks a list of papers on machine learning applications in general relativity and more general PDE solvers.
+This repository tracks a list of papers on machine learning applications in general relativity and, more generally, some PDE solvers and solution techniques that involve machine learning.
 
 
 ## Review Articles
