@@ -15,6 +15,8 @@ This repository tracks a list of papers on machine learning applications in gene
 - [2001.06145](https://arxiv.org/abs/2001.06145) -- A Derivative-Free Method for Solving Elliptic Partial Differential Equations with Deep Neural Networks
 - [2003.00596](https://arxiv.org/abs/2003.00596) -- Overcoming the curse of dimensionality in the numerical approximation of high-dimensional semilinear elliptic partial differential equations
 
+- [1711.10561](https://arxiv.org/abs/1711.10561) -- Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations
+- [1711.10566](https://arxiv.org/abs/1711.10566) -- Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations
 
 ## GW Parameter estimation
 
